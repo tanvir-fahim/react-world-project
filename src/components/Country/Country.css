@@ -1,0 +1,40 @@
+.country{
+    border: 3px solid yellow;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.country-visited{
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.country-notVisited{
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.takeSpace{
+    display: flex;
+    flex: 1;
+}
+
+.btn{
+    border: 2px solid white;
+    padding: 10px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
